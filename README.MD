@@ -10,5 +10,4 @@
 * _CSS_
 * _JS_
 * _REACT_
-
 ANGULAR
